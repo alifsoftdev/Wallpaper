@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775399171427",
+    "project_id": "wallpaper-e3d68",
+    "storage_bucket": "wallpaper-e3d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775399171427:android:afe739c5240ee6d5f19f56",
+        "android_client_info": {
+          "package_name": "com.example.wellpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775399171427-aupf4u9s0a7uumq8b3b11v2vutfbbhcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wellpaper",
+            "certificate_hash": "283ee7f75399c80609768d14ffadb1eab4bb9914"
+          }
+        },
+        {
+          "client_id": "775399171427-1ok88kebrh2b09iku3mn6d7jsbb228mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KBGjn4oSzCLE-DYcZdZ5__f8aLkU4FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775399171427-1ok88kebrh2b09iku3mn6d7jsbb228mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
