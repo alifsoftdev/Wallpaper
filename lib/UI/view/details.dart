@@ -43,6 +43,11 @@ class _DetailsState extends State<Details> {
       Fluttertoast.showToast(msg: 'failed');
     }
   }
+   shareImage(url) {
+    Share.share(
+      url,
+    );
+  }
 
   Future download(url) async {
     var status = await Permission.storage.request();
@@ -60,11 +65,7 @@ class _DetailsState extends State<Details> {
     }
   }
 
-  shareImage(url) {
-    Share.share(
-      url,
-    );
-  }
+ 
 
   ReceivePort _port = ReceivePort();
   @override

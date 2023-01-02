@@ -19,7 +19,7 @@ class _SplashState extends State<Splash> {
       splash:Center(
         child: Image.asset(
           'assets/logo.png',
-          width: 180,
+          width: 350,
         ),
       ),
       nextScreen:Home(),
